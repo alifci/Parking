@@ -1,3 +1,5 @@
+-The version of .net core is 2.1
+
 -Instructions How to run your solution
 
 1- Change the database connection string in appsetting.json file.
